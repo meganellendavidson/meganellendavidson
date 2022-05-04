@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </p>
-  <p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  </p>
+<!--   <p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=meganellendavidson&style=flat-square&color=blue" alt=""/>
+  </p> -->
 </div>
 
 ### :woman_technologist: &nbsp;About Me :
