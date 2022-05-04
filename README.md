@@ -19,7 +19,7 @@ I am a Geospatial Developer from New Zealand.
 
 - 🗺️ I’m working as a Geospatial Developer at Toitu te Whenua Land Information New Zealand.
 - 🌱 Exploring Technical Content Writing.
-- 🎓 In my free time I undertaking a Masters of Geographic Information Science at Victoria University of Wellinton.
+- 🎓 In my free time I am undertaking a Masters of Geographic Information Science at Victoria University of Wellinton.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-meganellendavidson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meganellendavidson)
 
 ---
