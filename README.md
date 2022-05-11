@@ -15,7 +15,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Geospatial Developer from New Zealand.
+I am a Geospatial Developer based in Wellington, New Zealand.
 
 - 🗺️ I’m working as a Geospatial Developer at Toitu te Whenua Land Information New Zealand.
 - 🌱 Exploring Technical Content Writing.
