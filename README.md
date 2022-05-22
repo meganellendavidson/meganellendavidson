@@ -34,7 +34,7 @@ I am a Geospatial Developer based in Wellington, New Zealand.
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="40" height="40"/>&nbsp;
 <img src="https://github.com/qgis/QGIS/blob/master/images/svg/logos/qgis-logo.svg" title="QGIS" **alt="QGIS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/aws/eks-anywhere/blob/0293c4082143b02152e2b6724024775e0eb67da1/docs/static/AWS_logo_RGB.svg" title="AWS" **alt="AWS" width="40" height="40"/>&nbsp;
-<img src="[https://github.com/aws/eks-anywhere/blob/0293c4082143b02152e2b6724024775e0eb67da1/docs/static/AWS_logo_RGB.svg](http://esri.github.io/calcite-web/documentation/components/#esri-logo)" title="ESRI" **alt="ESRI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/aws/eks-anywhere/blob/0293c4082143b02152e2b6724024775e0eb67da1/docs/static/AWS_logo_RGB.svg" title="ESRI" **alt="ESRI" width="40" height="40"/>&nbsp;
 </p>
 
 ---
