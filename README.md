@@ -23,6 +23,14 @@ I am a Geospatial Developer based in Wellington, New Zealand.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-meganellendavidson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meganellendavidson)
 
 ---
+### 💻  &nbsp;My Work :
+#### LINZ:
+🏠 https://github.com/linz/nz-buildings
+
+✈️📷 https://github.com/linz/topo-processor
+
+📋 https://github.com/linz/stac
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
