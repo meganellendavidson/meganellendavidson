@@ -32,7 +32,7 @@ I am a Geospatial Developer based in Wellington, New Zealand.
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" **alt="Postgres" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="40" height="40"/>&nbsp;
-<img src="https://github.com/qgis/QGIS/blob/master/images/svg/logos/qgis-logo.svg" title="QGIS" **alt="QGIS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/qgis/QGIS/blob/master/images/svg/logos/qgis-logo.svg" title="QGIS" **alt="QGIS" width="60" height="40"/>&nbsp;
 <img src="https://github.com/aws/eks-anywhere/blob/0293c4082143b02152e2b6724024775e0eb67da1/docs/static/AWS_logo_RGB.svg" title="AWS" **alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/IFPRI/MTID-FORESIGHT-TOOL-STORYMAP/blob/1e0630dd9d1f829cb583a848c0b5ab2c33620852/src/resources/tpl/viewer/icons/esri-logo.png" title="ESRI" **alt="ESRI" width="100" height="40"/>&nbsp;
 </p>
