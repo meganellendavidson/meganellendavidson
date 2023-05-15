@@ -27,13 +27,17 @@ I am a Geospatial Developer based in Wellington, New Zealand.
 #### LINZ:
 
 📋 https://github.com/linz/stac
+
 ✈️ https://github.com/linz/topo-imagery
+
 🔃 https://github.com/linz/topo-workflows
+
 🏠 https://github.com/linz/nz-buildings
 
 
-_Archvied Projects:
-📷 https://github.com/linz/topo-processor_
+_Archvied Projects:_
+
+📷 https://github.com/linz/topo-processor
 
 ---
 
