@@ -18,18 +18,22 @@
 I am a Geospatial Developer based in Wellington, New Zealand.
 
 - 🗺️ I’m working as a Geospatial Developer at Toitu te Whenua Land Information New Zealand.
-- 🌱 Exploring Technical Content Writing.
-- 🎓 In my free time I am undertaking a Masters of Geographic Information Science at Victoria University of Wellington.
+- 🌱 Upskilling in Cloud Development.
+- 🎓 Recent Graduate - Masters of Science in Geographic Information Science with Distinction, Victoria University of Wellington.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-meganellendavidson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meganellendavidson)
 
 ---
 ### 💻  &nbsp;My Work :
 #### LINZ:
-🏠 https://github.com/linz/nz-buildings
-
-✈️📷 https://github.com/linz/topo-processor
 
 📋 https://github.com/linz/stac
+✈️ https://github.com/linz/topo-imagery
+🔃 https://github.com/linz/topo-workflows
+🏠 https://github.com/linz/nz-buildings
+
+
+_Archvied Projects:
+📷 https://github.com/linz/topo-processor_
 
 ---
 
