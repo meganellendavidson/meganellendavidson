@@ -23,13 +23,13 @@ I am a Geospatial Developer based in Wellington, New Zealand.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-meganellendavidson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meganellendavidson)
 
 ---
-### 💻  &nbsp;My Work :
+###   &nbsp;My Work :
 
-#### Presentations:
+#### 🎤 Presentations:
 See a portfolio of my presentations here:
 https://github.com/meganellendavidson/Presentations
 
-#### Development:
+#### 💻 Development:
 
 **LINZ:**
 
