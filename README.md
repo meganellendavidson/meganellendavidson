@@ -24,7 +24,14 @@ I am a Geospatial Developer based in Wellington, New Zealand.
 
 ---
 ### 💻  &nbsp;My Work :
-#### LINZ:
+
+#### Presentations:
+See a portfolio of my presentations here:
+https://github.com/meganellendavidson/Presentations
+
+#### Development:
+
+**LINZ:**
 
 📋 https://github.com/linz/stac
 
