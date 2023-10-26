@@ -36,8 +36,8 @@ Geospatial Developer based in Wellington, New Zealand.
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" **alt="Postgres" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/OSGeo/osgeo/6baea6ac2fa991455e7c5af53857f225bba08a5d/marketing/branding/symbols/svg/black/postgis.svg" title="PostGIS" **alt="PostGIS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/qgis/QGIS/blob/master/images/svg/logos/qgis-logo.svg" title="QGIS" **alt="QGIS" width="60" height="40"/>&nbsp;
-<img src="https://esri.github.io/assets/logo/esri-logo.svg" title="ESRI" **alt="ESRI" width="100" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="40" height="40"/>&nbsp;
+<img src="https://esri.github.io/assets/logo/esri-logo.svg" title="ESRI" **alt="ESRI" width="100" height="40"/>&nbsp;
 </p>
 
 ---
