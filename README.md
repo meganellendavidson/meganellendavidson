@@ -52,12 +52,17 @@ _Archvied Projects:_
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/elbywan/wretch/9e6fa07816d310276c01d5e54cd5881c6fd7538b/docs/assets/ts-logo.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/aws/eks-anywhere/blob/0293c4082143b02152e2b6724024775e0eb67da1/docs/static/AWS_logo_RGB.svg" title="AWS" **alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/9363edf07b5dcf80fd9899c05dda7c3338650226/logo/logo.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/ef7c4a746e860737c5fcb4e94beaedeb7c8ddc02/images/svg/docker.svg" title="docker" **alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/argoproj/argoproj/b8797946cd23a6fedbf65c946e4f7b374b27d006/docs/assets/argo.svg" title="Argo" **alt="Argo" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" **alt="Postgres" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/OSGeo/osgeo/6baea6ac2fa991455e7c5af53857f225bba08a5d/marketing/branding/symbols/svg/black/postgis.svg" title="PostGIS" **alt="PostGIS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/qgis/QGIS/blob/master/images/svg/logos/qgis-logo.svg" title="QGIS" **alt="QGIS" width="60" height="40"/>&nbsp;
-<img src="https://github.com/aws/eks-anywhere/blob/0293c4082143b02152e2b6724024775e0eb67da1/docs/static/AWS_logo_RGB.svg" title="AWS" **alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://esri.github.io/assets/logo/esri-logo.svg" title="ESRI" **alt="ESRI" width="100" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="40" height="40"/>&nbsp;
 </p>
 
 ---
