@@ -45,6 +45,8 @@ Geospatial Developer based in Wellington, New Zealand.
 ### 💼 Projects:
 📸 https://registry.opendata.aws/nz-imagery/
 
+🏛️ https://data.linz.govt.nz/layer/101290-nz-building-outlines/
+
 ### 💻 Development:
 
 **LINZ:**
