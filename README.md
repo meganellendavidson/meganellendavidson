@@ -15,39 +15,14 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Geospatial Developer based in Wellington, New Zealand.
+Geospatial Developer based in Wellington, New Zealand.
 
-- 🗺️ I’m working as a Geospatial Developer at Toitu te Whenua Land Information New Zealand.
+- 🗺️ Geospatial Developer at Toitu te Whenua Land Information New Zealand.
 - 🌱 Upskilling in Cloud Development.
 - 🎓 Recent Graduate - Masters of Science in Geographic Information Science with Distinction, Victoria University of Wellington.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-meganellendavidson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meganellendavidson)
 
 ---
-###   &nbsp;My Work :
-
-#### 🎤 Presentations:
-See a portfolio of my presentations here:
-https://github.com/meganellendavidson/Presentations
-
-#### 💻 Development:
-
-**LINZ:**
-
-📋 https://github.com/linz/stac
-
-✈️ https://github.com/linz/topo-imagery
-
-🔃 https://github.com/linz/topo-workflows
-
-🏠 https://github.com/linz/nz-buildings
-
-
-_Archvied Projects:_
-
-📷 https://github.com/linz/topo-processor
-
----
-
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -64,5 +39,30 @@ _Archvied Projects:_
 <img src="https://esri.github.io/assets/logo/esri-logo.svg" title="ESRI" **alt="ESRI" width="100" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="40" height="40"/>&nbsp;
 </p>
+
+---
+
+### 💼 Projects:
+📸 https://registry.opendata.aws/nz-imagery/
+
+### 💻 Development:
+
+**LINZ:**
+
+🔃 https://github.com/linz/topo-workflows
+
+✈️ https://github.com/linz/topo-imagery
+
+📋 https://github.com/linz/stac
+
+🏠 https://github.com/linz/nz-buildings
+
+_Archvied Projects:_
+
+📷 https://github.com/linz/topo-processor
+
+### 🎤 Presentations:
+See a portfolio of my presentations here:
+https://github.com/meganellendavidson/Presentations
 
 ---
