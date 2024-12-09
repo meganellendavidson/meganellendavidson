@@ -19,7 +19,7 @@ Geospatial Developer based in Wellington, New Zealand.
 
 - 🗺️ Geospatial Developer at Toitu te Whenua Land Information New Zealand.
 - 🌱 Upskilling in Cloud Development.
-- 🎓 Recent Graduate - Masters of Science in Geographic Information Science with Distinction, Victoria University of Wellington.
+- 🎓 Masters of Science in Geographic Information Science with Distinction, Victoria University of Wellington.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-meganellendavidson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meganellendavidson)
 
 ---
